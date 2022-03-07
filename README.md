@@ -14,7 +14,7 @@ Create a CMS-style blog site to publish articles, blog posts, and my thoughts/op
 
 ## Screenshots
 
-![Picture] (./assets/images/screenshot.png)
+![Picture] (https://github.com/danielle-gan/MVC-techblog/blob/main/assets/images/screenshot.PNG)
 
 ## Link to live application
 https://dashboard.heroku.com/apps/salty-badlands-43993 
